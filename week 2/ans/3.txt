@@ -1,0 +1,78 @@
+// mohammad._.hr 
+// week 2 # 100 point # question3
+// 4003623039
+
+
+function Add(e):
+   newest = Node(e)
+   newest.next = head 
+   head = newest 
+   size = size + 1 
+
+
+function Remove(e):
+   current = head 
+   while(current != null and current.data != e):
+      prevous = current 
+      current = current.next
+   if (current != null):
+      if(current == head):
+         head = current.next
+      else : 
+         previous.next = current.next
+      destroy current
+      size = size - 1
+
+
+Union(ll1 , ll2):
+   LinlkedList union
+   for i = 0 to ll1.getsize()-2 : 
+      temp = ll1.getnext()
+      union.add(temp)
+   for i = 0 to ll2.getsize() - 2 :
+      temp = ll2.getnext()
+      union.add(temp)
+   for i=0 to union.getsize()-2:
+      for j=0 to union.getsize()-2 :
+         if (union.get(i) == union.get(j)):
+            remve(union.get(i)
+   return union
+
+
+Intersection(ll1 , ll2):
+   LinkedList intersection
+   for i=0 to ll1.getsize()-2:
+      temp1 = ll1.getnext() 
+      for j=0 to ll2.getsize90-2:
+         temp2 = ll2.getnext()
+         if(temp1.data == temp2.data):
+            intersection.add(temp1)
+   return intersection
+
+
+
+function Difference(ll1 , ll2):
+   linkedlist difference
+   intersection = Intersection(ll1,ll2)
+   add = true
+   for i = 0 to ll1.getsize()-2
+      temp1 = ll1.getnext() 
+      for j = 0 to intersection.getsize()-2:
+         temp2 = intersection.getnext()
+         if(temp1 == temp2):
+            add = false
+      if(add):
+         difference.add(temp)
+   return difference
+
+
+
+
+
+
+
+
+
+
+
+

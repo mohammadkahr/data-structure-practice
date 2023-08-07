@@ -1,0 +1,17 @@
+//4003623039
+//mohammad._.hr
+//week 2 # question4 # 100 point
+
+
+
+
+function find(linkedlist):
+   list codes
+   for i = 0 to linkedlist.size() : 
+      codes.append(linkedlist.get(i))
+   for i = 0 to list.lenght :
+      temp = list[i]
+      for j=0 to list.lenght+1 :
+         if(list[j] == temp):
+            return true
+   return false
