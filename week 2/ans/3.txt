@@ -1,6 +1,5 @@
 // mohammad._.hr 
 // week 2 # 100 point # question3
-// 4003623039
 
 
 function Add(e):
