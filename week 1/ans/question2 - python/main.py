@@ -1,6 +1,5 @@
 # question 2
 # week 1
-# 4003623039
 # 100 point
 number1 = list(int(x) for x in input())
 number2 = list(int(x) for x in input())

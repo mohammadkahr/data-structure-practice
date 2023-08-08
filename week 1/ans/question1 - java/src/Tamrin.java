@@ -4,7 +4,6 @@ public class Tamrin {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         //question 1
-        //4003623039
         //100 point
         int total;
         boolean onOff = true ;

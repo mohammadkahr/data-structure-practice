@@ -1,5 +1,4 @@
 #  question 1
-# 4003623039
 # 100 point
 total = 0
 onOff = 1

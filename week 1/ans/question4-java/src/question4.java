@@ -4,7 +4,6 @@ public class question4 {
     public static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         //week1 question4 100 point
-        //4003623039
         //mohammad._.hr
         int numberOfTests = input.nextInt(); //n
         float [] totalMoney = new float[numberOfTests];

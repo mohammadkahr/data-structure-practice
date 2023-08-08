@@ -5,7 +5,6 @@ public class question3 {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         //question 3  week1  100 point
-        //4003623039
         //mohammad._.hr
         int row = input.nextInt();
         int column = input.nextInt();
