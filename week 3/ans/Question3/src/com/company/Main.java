@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // mohammad._.hr
-        // 4003623039
         //question 3 # week2 # 300 points
         // 243 point daryafti
         Scanner input = new Scanner(System.in);

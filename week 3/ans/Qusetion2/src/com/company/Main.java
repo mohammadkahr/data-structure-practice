@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 	    // mohammad._.hr
-        // 4003623039
         //question 2 # week2 # 200 points
         Scanner input = new Scanner(System.in);
         MyLinkedlist linkedlist = new MyLinkedlist<>();
