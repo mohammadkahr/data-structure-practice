@@ -4,8 +4,6 @@ public class question3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         //mohammad._.hr
-        //4003623039
-        //week4 # question3 # 100 point
         while (input.hasNext()){
             isMatched(input.nextLine());
         }

@@ -2,8 +2,6 @@ import java.util.Scanner;
 public class question2 {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week4 # question2 # 100 point
         Scanner input = new Scanner(System.in);
         ArrayQueue<Integer> arrayQueue = new ArrayQueue<>();
         int number = input.nextInt();
