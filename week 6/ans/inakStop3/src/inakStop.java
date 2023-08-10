@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class inakStop {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week 6 # 100 points # question 3
         Scanner input = new Scanner(System.in);
         int nemone = input.nextInt();
         input.nextLine();

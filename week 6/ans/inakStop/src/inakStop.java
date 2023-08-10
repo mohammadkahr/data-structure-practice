@@ -7,8 +7,6 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 public class inakStop {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week 6 # 200 points # question1
         Scanner input = new Scanner(System.in);
         int nemone = input.nextInt();
         input.nextLine();

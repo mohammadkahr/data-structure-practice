@@ -9,8 +9,6 @@ import static java.lang.System.exit;
 public class darMasir {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week 6 # 200 points # question 2
         Scanner input = new Scanner(System.in);
         int numberOfNode = input.nextInt();
         input.nextLine();

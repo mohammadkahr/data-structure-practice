@@ -7,8 +7,6 @@ import static java.lang.System.exit;
 public class bilbilak {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week 6 # 200 points # question 1
         Scanner input = new Scanner(System.in);
         int nemone = input.nextInt();
         input.nextLine();
