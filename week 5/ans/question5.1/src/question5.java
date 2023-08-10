@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class question5 {
     public static void main(String[] args) {
         // mohammad._.hr
-        //4003623039
-        //week 5 # question5 # 100 points
         Scanner input = new Scanner(System.in);
         ArrayStack<String> arrayStack = new ArrayStack<>();
         String temp = input.nextLine();
@@ -12,7 +10,6 @@ public class question5 {
         for (String s : arr) {
             arrayStack.push(s);
         }
-//        reverse(arrayStack);
         reverse2(arrayStack, arr.length-1);
         while(!arrayStack.isEmpty()){
             System.out.print(arrayStack.pop() + " ");

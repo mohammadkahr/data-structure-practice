@@ -4,8 +4,6 @@ import java.util.Stack;
 public class question3 {
     public static void main(String[] args) {
         //mohammad._.hr
-        //4003623039
-        //week 5 # 200 points #
         Scanner input = new Scanner(System.in);
         String str = input.next();
         System.out.println(change(str));
